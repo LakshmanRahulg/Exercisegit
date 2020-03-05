@@ -1,1 +1,2 @@
 This is first file modifying in hotfix branch 
+Modifying file1.txt in master branch
